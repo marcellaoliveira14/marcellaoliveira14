@@ -15,7 +15,6 @@
   <img align="center" alt="mah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mah-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="mah-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="mah-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/3b/58/5d/3b585d6d365e5d629f0b0513364e8afd.jpg" width=200&height=240">
 </div>
   
   ##
